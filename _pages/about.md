@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://satm.umsha.ac.ir/NAIRG-Group'>NAIRG</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Neuroscience and Artificial Intelligence Research Group (NAIRG) at Department of Neuroscience</p>
+    <p>Fahmideh St </p>
+    <p>Hamadan, Hamadan 6517838636</p>
 
 News: true # includes a list of news items
 Selected_papers: true # includes a list of papers marked as "selected={true}"

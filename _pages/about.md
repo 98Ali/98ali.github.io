@@ -13,8 +13,8 @@ profile:
     <p>Fahmideh St </p>
     <p>Hamadan, Hamadan 6517838636</p>
 
-News: true # includes a list of news items
-Selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I’m Ali Fathi Jouzdani, MD and researcher. From the moment I captured that first magical signal from a rat's brain in the animal laboratory of Allameh Helli High School, I knew that neuroscience, particularly computational neuroscience, was my way. That summer afternoon in Tehran sparked a journey of discovery and innovation that has since become my life's work.

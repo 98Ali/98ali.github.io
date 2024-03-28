@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: AL.FA. Daydreamer: Music, Life & Brain # blog_name will be displayed in your blog page
+blog_name: AL.FA. Daydreamer Music, Life & Brain # blog_name will be displayed in your blog page
 blog_description: My whole being is a dark chant which will carry you, perpetuating you to the dawn of eternal growths and blossoming
 permalink: /blog/:year/:title/
 

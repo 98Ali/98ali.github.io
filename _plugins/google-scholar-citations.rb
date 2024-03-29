@@ -10,12 +10,12 @@ module Jekyll
     class GoogleScholarCitationsTag < Liquid::Tag
         Citations = { }
 
-        def initialize(tag_name, params, tokens)
-            super
-            splitted = params.split(" ").map(&:strip)
-            @scholar_id = splitted[0]
-            @article_id = splitted[1]
-        end
+       # def initialize(tag_name, params, tokens)
+          #  super
+           # splitted = params.split(" ").map(&:strip)
+            scholar_id = BuzRNhkAAAAJ
+            article_id = MXK_kJrjxJIC
+       # end
 
         def render(context)
             article_id = context[@article_id.strip]

@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ali Fathi Jouzdani
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22ed November 1998
     - name: Languages
-      value: English, German
+      value: Persian, English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MD
+      institution: Hamadan University of Medical Sciences
+      year: 2017
       description:
         - Description 1.
         - Description 2.

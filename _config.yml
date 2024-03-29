@@ -82,8 +82,8 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
+research_gate_profile: Ali-Fathi-Jouzdani # your profile on ResearchGate
+scopus_id: 57370963700 # your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
 work_url: # work page URL

@@ -24,11 +24,11 @@
   },
   "xmyresuyprofile": [
     {
-      "name": "xxMachine Learning",
+      "name": "ISAM GEN",
       "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://isamweb.org/global-expert-network/",
+      "icon": "fa-brands fa-x-twitter"
     },
     {
       "name": "xxQuantum Computing",

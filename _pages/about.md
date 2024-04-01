@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Neuroscience and Artificial Intelligence Research Group (NAIRG) at Department of Neuroscience</p>
+    <p>Neuroscience and Artificial Intelligence Research Group (NAIRG) at Department of Neuroscience, UMSHA</p>
     <p>Fahmideh St </p>
     <p>Hamadan, Hamadan 6517838636</p>
 
@@ -27,4 +27,4 @@ Committed to excellence, I completed a rigorous one-year data science program at
 
 My dedication to neuroscience led to a full-time internship at the image processing Lab in NBML, where I explored the intricate workings of neuroscience, from MRI data gathering to complex analysis, to identify neural networks and circuits, significantly enhancing my neuroimaging capabilities.
 
-Currently, I am researching Neurosurgery (especially Functional Neurosurgery and Neuro-Oncology), Brain Stimulation, and Precision Medicine. I hope each step of this journey continues to fuel my passion for uncovering the mysteries of the brain and harnessing the power of computational neuroscience to improve lives.
+Currently, I am researching Neurosurgery (especially Stereotactic, Functional Neurosurgery and Neuro-Oncology), Brain Stimulation, and Precision Medicine. I hope each step of this journey continues to fuel my passion for uncovering the mysteries of the brain and harnessing the power of computational neuroscience to improve lives.

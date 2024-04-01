@@ -9,17 +9,18 @@ related_posts: false
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
-As we usher in the New Year and the festive spirit of Nowruz, we have more than just the season to celebrate.
+As we usher in the Persian New Year and the festive spirit of Nowruz, we have more than just the season to celebrate.
 
 In the true spirit of the adage, "A good beginning makes a good ending," we are elated to announce a remarkable start to the year with our team's outstanding achievement. We, as the NAIRG team, have emerged as #1 in continuous prediction and #2 in binary classification winners in the prestigious SNMMI AI Challenge, a testament to our collective effort and dedication. Congratulation to all
 
-#### Hipster list
+#### My colleagues in this challenge
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Arman Gorji, NAIRG</li>
+    <li>Amirali Abootorabi, NAIRG</li>
+    <li>Nima Sanati, NAIRG</li>
+    <li>Dr Mohmamadreza Salmanpour PhD, The University of British Columbia (UBC)</li>
+    <li>Prof Arman Rahmim PhD, The University of British Columbia (UBC)</li>
 </ul>
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.

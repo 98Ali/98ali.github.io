@@ -6,7 +6,9 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The Society of Nuclear Medicine and Molecular Imaging (SNMMI) AI Task Force, in collaboration with the Physics, Instrumentation, and Data Science Council, announced the commencement of an innovative Radiomics and Machine Learning (ML) Challenge. This competition invited participants to engage with a fully anonymized dataset, which included radiomics features alongside outcome or survival data. Participants were encouraged to utilize this dataset to develop and train ML models to predict patient survival rates. In a subsequent phase of the challenge, these models underwent external validation using a separate dataset containing blinded survival information. The performance of each model was meticulously assessed by the AI challenge team.
+
+This challenge represented a unique opportunity for individuals in the field of radiomics and machine learning to showcase their skills, contribute to the advancement of medical imaging, and potentially impact patient outcomes through innovative predictive modeling.
 
 ---
 As we usher in the Persian New Year and the festive spirit of Nowruz, we have more than just the season to celebrate.

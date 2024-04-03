@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "xxMy name",
-    "label": "Scientist",
+    "name": "Ali Fathi Jouzdani",
+    "label": "MD, Researcher",
     "image": "",
-    "email": "xxMy@gmail.com",
-    "phone": "(912) 123-4567",
+    "email": "ali.fathi77@gmail.com",
+    "phone": "(98) 912-895 9068",
     "url": "https://98ali.github.io/",
-    "summary": "A Neuroscientist, medical scientist, as well as python developer",
+    "summary": "Medical Doctor, Researcher interested to Neurosciences, Neurosurgery, Brain Stimulation, Computational Neuroscience and Precision Medicine",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Fahmideh St.",
+      "postalCode": "6517838636",
+      "city": "Hamadan",
+      "countryCode": "IR",
+      "region": "Hamadan"
     },
     "profiles": [
       {
@@ -22,19 +22,18 @@
       }
     ]
   },
-  "xmyresuyprofile": [
+  "Experiences and Positions": [
     {
-      "name": "ISAM GEN",
+      "name": "ISAM Global Experts Network (ISAM GEN)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "International Society of Addiction Medicine (ISAM)",
       "url": "https://isamweb.org/global-expert-network/",
-      "icon": "fa-brands fa-x-twitter"
     },
     {
-      "name": "xxQuantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Addiction Craving and Cue Reactivity Initiative Network (ACRIN)",
+      "date": "2020-01-21",
+      "issuer": "University of Minnesota",
+      "url": "https://med.umn.edu/addiction/network/acrin",
       "icon": "fa-solid fa-tag"
     },
     {

@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Creation of New Frontiers in Our Lab: NAIRG at the Nexus of Neuroscience and AI
 date: 2022-05-22 22:11:00-0400
 inline: false
 related_posts: false

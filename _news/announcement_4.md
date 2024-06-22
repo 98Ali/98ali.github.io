@@ -1,5 +1,7 @@
 ---
 layout: post
+layout: post
+title: Neuroscience and Artificial Intelligence Research Group (NAIRG)
 date: 2022-05-22 22:11:00-0400
 inline: false
 related_posts: false

@@ -4,7 +4,7 @@
     - name: Full Name
       value: Ali Fathi Jouzdani
     - name: Date of Birth
-      value: 22ed November 1998
+      value: 22 November 1998
     - name: Languages
       value: Persian, English, French
 
@@ -17,10 +17,18 @@
       description:
         - Basic Sciences 2017-2019.
         - Physiopathology courses 2019-2021.
-        - title: Clinical.
+        - title: Clinical:
           contents:
             - clerkship 2021-2023.
-            - Internship 2023-2025.
+            - Internship 2023-2024.
+     - title: Medical Doctor Internships
+      institution: Tehran University of Medical Sciences
+      year: 2024
+      description:
+        - title: Clinical:
+          contents:
+            - Pediatrics Sep 2024-Dec 2024.
+            - Internal Dec 2024-2024.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900

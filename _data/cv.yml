@@ -25,17 +25,16 @@
       institution: Tehran University of Medical Sciences
       year: 2024
       description:
-        - title: Clinicalxggz1234a
+        - title: Clinical
           contents:
             - Pediatrics Sep 2024-Dec 2024.
-            - Internal Dec 2024-2024.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Internal Dec 2024-Feb 2025.
+    - title: 
+      institution: University of Tehran
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
+        - Science Program: Comprehensive Data Science Specialist: January 2021 - December 2022
+      
 - title: Experience
   type: time_table
   contents:

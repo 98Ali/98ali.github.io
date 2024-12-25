@@ -8,12 +8,12 @@ middle_name:
 last_name: Fathi Jouzdani
 email: alifathijouzdani@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  MD, Researcher interested in Neurosciences, Neurosurgery, Brain Stimulation, Computational Neuroscience, and Precision Medicine.
+  MD, Researcher interested in Neuromodulation, Computational Neuroscience, Neurosurgery, Neuro-oncology, Precision Medicine
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Neurosciences, Neurosurgery, Functional Neurosurgery, Brain Stimulation, Computational Neuroscience, Precision Medicine # add your own keywords or leave empty
+keywords: Neuromodulation, Neurosciences, Neurosurgery, Functional Neurosurgery, Brain Stimulation, Computational Neuroscience, Precision Medicine # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -77,13 +77,13 @@ scholar_userid: BuzRNhkAAAAJ # your Google Scholar ID--xxadev-notx qc6CJjYAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: +989128959068 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 000000026838929X# your ORCID ID
-medium_username: # your Medium username
+medium_username: @ali.fathi77 # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: Ali-Fathi-Jouzdani # your profile on ResearchGate
-scopus_id: 57370963700 # your profile on Scopus
+scopus_id: # your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -98,7 +98,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: alfadaydreamer # your instagram id
-facebook_id: AliFathiJouzdani# your facebook id
+facebook_id: AliFathiJouzdani # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username

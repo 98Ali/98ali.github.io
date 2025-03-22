@@ -28,14 +28,15 @@
         - title: Clinical
           contents:
             - Pediatrics Sep 2024-Dec 2024.
-            - Internal Dec 2024-Feb 2025.
+            - Internal Dec 2024-Mar 2025.
             
       
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Researcher and executive cooperation 
+      institution: The Addiction Cue Reactivity Initiative (ACRI) of the Enhanced Neuro Imaging Genetics Through Meta-Analysis (ENIGMA)
+      link: "https://med.umn.edu/addiction/network/acrin" 
       year: 1933 - 1955
       description:
         - Description 1.

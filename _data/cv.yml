@@ -35,9 +35,10 @@
   type: time_table
   contents:
     - title: Researcher and executive cooperation 
-      institution: The Addiction Cue Reactivity Initiative (ACRI) of the Enhanced Neuro Imaging Genetics Through Meta-Analysis (ENIGMA)
+      institution: Addiction Craving and Cue Reactivity Initiative Network (ACRIN)
       link: "https://med.umn.edu/addiction/network/acrin" 
-      year: 1933 - 1955
+      thumbnail: assets/img/acri-thumbnail.jpg
+      year: 2020 - 2026
       description:
         - Description 1.
         - Description 2.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal Articles and Conference
+description: Journal Articles and Conference.
 nav: true
 nav_order: 2
 ---
